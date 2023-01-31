@@ -1,0 +1,12 @@
+{
+  "name": "tickepomfrontend",
+  "displayName": "tickepom-frontend",
+  "expo": {
+    "name": "tickepom-frontend",
+    "slug": "tickepom-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
